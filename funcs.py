@@ -1,12 +1,6 @@
 def summary(a, b):
-    print(a+b)
+    return(a+b)
 
-
-summary(3, 4)
 
 def differ(x, y):
-    print(x-y)
-
-
-differ(3, 4)
-
+    return(x-y)
